@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 Wup, I'm Adryan Wigner
+🎓 Bussiness Administration Student at @Unopar
+🎓 Data Scientist Student at @Data Science Academy
+❤ Passionate about Bussiness Intelligence and Data Sciente
+💡 "If you cannot measure it, you cannot improve it." (William Thomson Kelvin)
 
-<!--
-**AdryanWigner/AdryanWigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Languages:
+* Python ⭐⭐⭐
 
-Here are some ideas to get you started:
+Databases:
+* Microsoft SQL Server ⭐⭐⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Analisys Libraries:
+* Pandas ⭐⭐⭐⭐
+* NumPy ⭐⭐
+* Matplotlib e Seaborn ⭐⭐⭐
+* Plotly ⭐⭐⭐
+* Streamlit ⭐⭐
+
+Business Intelligence Tools:
+* Power BI ⭐⭐⭐⭐
+* Power Automate ⭐⭐⭐⭐
+* Excel ⭐⭐⭐⭐
+
+
+📊 GitHub Stats
+📌 Profile Summary
+
+
+📌 Languages & Stats
+ 
+
+📌 Commit Streak
+GitHub Streak
+
+📌 Activity Graph
+Adryan's github activity graph
+
+📫 Connect with Me
+   
+🐍 Contributions
+github contribution grid snake animation
