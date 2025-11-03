@@ -22,22 +22,3 @@ Business Intelligence Tools:
 * Power BI ⭐⭐⭐⭐
 * Power Automate ⭐⭐⭐⭐
 * Excel ⭐⭐⭐⭐
-
-
-📊 GitHub Stats
-📌 Profile Summary
-
-
-📌 Languages & Stats
- 
-
-📌 Commit Streak
-GitHub Streak
-
-📌 Activity Graph
-Adryan's github activity graph
-
-📫 Connect with Me
-   
-🐍 Contributions
-github contribution grid snake animation
