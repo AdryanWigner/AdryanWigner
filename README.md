@@ -12,6 +12,7 @@ Databases:
 * Microsoft SQL Server ⭐⭐⭐
 
 Data Analisys Libraries:
+Pandas NumPy Matplotlib Jupyter Shiny Bibliometrix
 * Pandas ⭐⭐⭐⭐
 * NumPy ⭐⭐
 * Matplotlib e Seaborn ⭐⭐⭐
