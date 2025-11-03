@@ -4,10 +4,11 @@
 <h2>👋 Wup, I'm <span style="color:#007acc;">Adryan Wigner</span></h2>
 
 <p>
-🎓 <strong>Business Administration Student</strong> at <a href="https://www.unopar.com.br" target="_blank">@Unopar</a><br>
+🎓 <strong>Business Administration Student</strong> at <a href="https://www.unopar.com.br" target="_blank">@UNOPAR</a><br>
 🎓 <strong>Data Scientist Student</strong> at <a href="https://www.datascienceacademy.com.br" target="_blank">@Data Science Academy</a><br>
 ❤️ Passionate about <strong>Business Intelligence</strong> and <strong>Data Science</strong><br>
-💡 <em>"If you cannot measure it, you cannot improve it."</em> — <small>William Thomson Kelvin</small>
+💻 <strong>Acesse meus projetos em:</strong> <a href="https://adryanpereira.my.canva.site/adryan-wigner" target=_blank">Portfólio</a><br>
+💡 <em>"If you cannot measure it, you cannot improve it."</em> — <small>William Thomson Kelvin</small><br>
 </p>
 
 ---
@@ -34,10 +35,11 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
-<h4>Business Intelligence Tools:</h4>
+<h4>Business Intelligence and Programming Tools:</h4>
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
+  <img src="https://img.shields.io/badge/Power%20Apps-993399?style=for-the-badge&logo=powerappsl&logoColor=white" alt="Power Apps">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
 </p>
 
