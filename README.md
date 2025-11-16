@@ -7,7 +7,7 @@
 🎓 <strong>Business Administration Student</strong> at <a href="https://www.unopar.com.br" target="_blank">@UNOPAR</a><br>
 🎓 <strong>Data Scientist Student</strong> at <a href="https://www.datascienceacademy.com.br" target="_blank">@Data Science Academy</a><br>
 ❤️ Passionate about <strong>Business Intelligence</strong> and <strong>Data Science</strong><br>
-💻 <strong>Acesse meus projetos em:</strong> <a href="https://adryanpereira.my.canva.site/adryan-wigner" target=_blank">Portfólio</a><br>
+💻 <strong>Access my projects at:</strong> <a href="https://adryanpereira.my.canva.site/adryan-wigner" target=_blank">Portfólio</a><br>
 💡 <em>"If you cannot measure it, you cannot improve it."</em> — <small>William Thomson Kelvin</small><br>
 </p>
 
@@ -15,33 +15,62 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<h4>Languages:</h4>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
 
-<h4>Databases:</h4>
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
-</p>
+<!-- ========= SKILLS SECTION ========= -->
+<div style="font-family: Arial, sans-serif;">
 
-<h4>Data Analysis Libraries:</h4>
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-4EABAE?style=for-the-badge&logo=plotly&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-</p>
+  <!-- PYTHON -->
+  <h2>Languages:</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+  </p>
 
-<h4>Business Intelligence and Programming Tools:</h4>
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
-  <img src="https://img.shields.io/badge/Power%20Apps-993399?style=for-the-badge&logo=powerappsl&logoColor=white" alt="Power Apps">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-</p>
+  <!-- PYTHON DATA ANALYSIS -->
+  <h2>Python → Data Analysis Libraries:</h2>
+  <p>
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+    <img src="https://img.shields.io/badge/seaborn-4EABE1?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+    <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </p>
+
+  <!-- MACHINE LEARNING -->
+  <h2>Data Science and Machine Learning → Libraries:</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/StatsModels-1A5276?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/XGBoost-EB4A00?style=for-the-badge"/>
+  </p>
+
+  <!-- BUSINESS INTELLIGENCE -->
+  <h2>Business Intelligence & Low Code Tools:</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
+  </p>
+
+  <!-- CLOUD / DEVOPS OPCIONAL -->
+  <h2>Cloud & Database:</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  </p>
+
+</div>
+
+
+## 📊 My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdryanWigner&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanWigner&layout=compact&theme=tokyonight)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=AdryanWigner&theme=tokyonight)
 
 ---
 
